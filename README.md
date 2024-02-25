@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+![image_to_readme_github](https://github.com/FJAConceicao/FJAConceicao/assets/32593546/2f97ab49-4bb0-4593-97d0-5b8f678498cd)
+
 <!--
 **FJAConceicao/FJAConceicao** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
